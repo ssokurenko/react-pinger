@@ -1,0 +1,23 @@
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.actions {
+  text-align: center;
+}
+
+.status {
+    width: 100%;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+.status.success {
+  background-color: green;
+}
+
+.status.error {
+  background-color: red;
+}
